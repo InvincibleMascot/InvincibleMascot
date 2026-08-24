@@ -142,13 +142,13 @@ SDLC             Debugging & Testing
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=InvisibleMascot&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  src="[https://github-readme-stats.vercel.app/api?username=InvisibleMascot&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=InvisibleMascot&show_icons=true"
   alt="Niranjan's GitHub Stats"
   height="170"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisibleMascot&layout=compact&theme=github_dark&hide_border=true"
+  src="[https://github-readme-stats.vercel.app/api/top-langs/?username=InvisibleMascot&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=InvisibleMascot&layout=compact"
   alt="Top Languages"
   height="170"
 />

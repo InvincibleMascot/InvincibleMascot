@@ -11,7 +11,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Developer-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Curious Learning about DevOps](https://img.shields.io/badge/DevOps-#91970?style=for-the-badge&logo=DevOps&logoColor=white)
+![Curious Learning about DevOps](https://img.shields.io/badge/DevOps-91970?style=for-the-badge&logo=DevOps&logoColor=white)
 
 </div>
 

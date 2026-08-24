@@ -133,6 +133,7 @@ SDLC             Debugging & Testing
 * Scalable Business Applications
 * API Development
 * Financial and Enterprise Software Systems
+* DevOps
 
 ---
 
@@ -140,9 +141,17 @@ SDLC             Debugging & Testing
 
 <div align="center">
 
-![Niranjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=InvisibleMascot\&show_icons=true\&hide_border=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=InvisibleMascot&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  alt="Niranjan's GitHub Stats"
+  height="170"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InvisibleMascot\&layout=compact\&hide_border=true)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=InvisibleMascot&layout=compact&theme=github_dark&hide_border=true"
+  alt="Top Languages"
+  height="170"
+/>
 
 </div>
 

@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Niranjan
 
-### Software Engineer | Laravel & Backend Developer
+### Full Stack Developer
 
 🚀 Building web applications, CRM & ERP systems, financial workflows, and database-driven solutions.
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with hands-on experience developing and maintaining web applications, CRM and ERP modules, financial workflow systems, database-driven applications, and backend APIs.
+I'm a **Full Stack Developer** with hands-on experience developing and maintaining web applications, CRM and ERP modules, financial workflow systems, database-driven applications, and backend APIs.
 
 I enjoy taking ideas and requirements through implementation, testing, debugging, and continuous improvement. My interests include building clean backend logic, structured databases, secure authentication, authorization, and scalable business workflows.
 
@@ -71,32 +71,6 @@ I enjoy taking ideas and requirements through implementation, testing, debugging
 
 ---
 
-# 🚀 Featured Project
-
-## 💰 The Vault
-
-### Personal Finance & Ledger Application
-
-A personal finance and ledger application built with **Laravel and PostgreSQL** to help users organize, track, and better understand their financial activity.
-
-### ✨ Features
-
-- 💸 Track daily income and expenses
-- 🏦 Manage bank accounts and balances
-- 🗂️ Organize transactions by category and method
-- 📊 Maintain and monitor financial transactions
-- 🎯 Create and track savings goals
-- 💵 Track cash and account savings
-- 📈 View an organized overview of financial activity
-
-### 🛠️ Built With
-
-`Laravel` · `PHP` · `PostgreSQL` · `Blade` · `JavaScript`
-
-> ### 💰 Track • Analyze • Save • Grow
-
----
-
 # 🏦 Financial Workflow Systems
 
 Experience working on financial workflow modules involving:
@@ -144,22 +118,10 @@ Experience developing and customizing business modules for:
 
 I'm currently focusing on improving my knowledge in:
 
-- 🚀 Advanced Laravel Development
 - 🏗️ Backend Architecture
 - 🗄️ Database Design & Optimization
 - ⚙️ Scalable Business Applications
 - 🔌 API Development
 - 🏦 Financial and Enterprise Software Systems
 - ☁️ DevOps and Deployment Workflows
-
 ---
-
-# 📈 Current Focus
-
-```text
-Laravel             ██████████░
-PHP                 █████████░░
-PostgreSQL          ████████░░░
-REST APIs           ████████░░░
-Backend Architecture ███████░░░░
-DevOps              █████░░░░░░

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="435" viewBox="0 0 1200 435" role="img" aria-labelledby="title desc">
+<title id="title">Niranjan R - developer terminal</title><desc id="desc">Developer terminal themed banner introducing Niranjan as a full stack developer focusing on Laravel, CRM ERP and financial workflow systems.</desc>
+<defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#1E3040" stroke-width=".6" opacity=".55"/></pattern><linearGradient id="metal" x1="0" x2="1"><stop stop-color="#101e2c"/><stop offset="1" stop-color="#162735"/></linearGradient></defs>
+<rect width="1200" height="435" rx="16" fill="#0B1521"/><rect width="1200" height="435" rx="16" fill="url(#grid)"/>
+<rect x="28" y="27" width="1144" height="377" rx="15" fill="url(#metal)" stroke="#344757" stroke-width="2"/>
+<path d="M43 27H1157Q1172 27 1172 42V78H28V42Q28 27 43 27Z" fill="#1C2D3C"/><circle cx="56" cy="53" r="7" fill="#F28B82"/><circle cx="80" cy="53" r="7" fill="#F6C06F"/><circle cx="104" cy="53" r="7" fill="#9BDC90"/>
+<text x="600" y="58" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="14" fill="#8FA6B5">niranjan@developer — profile</text>
+<text x="65" y="122" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#9EE6AF">➜  ~</text><text x="134" y="122" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#B8C4CE">whoami</text>
+<text x="65" y="207" font-family="Inter Display,Inter,Arial,sans-serif" font-size="79" letter-spacing="-3.2" font-weight="800" fill="#F1F4EF">Niranjan R.</text>
+<text x="69" y="254" font-family="DejaVu Sans Mono,monospace" font-size="23" font-weight="700" fill="#B6E3A1">Full Stack Developer</text>
+<text x="69" y="293" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#90A6B5">Laravel  /  PHP  /  Node.js  /  PostgreSQL</text>
+<text x="65" y="367" font-family="DejaVu Sans Mono,monospace" font-size="17" fill="#9EE6AF">➜  ~</text><text x="134" y="367" font-family="DejaVu Sans Mono,monospace" font-size="17" fill="#C8D3DA">build --for=real-world-workflows</text><rect x="525" y="347" width="11" height="23" rx="1" fill="#9EE6AF"/>
+<rect x="774" y="109" width="350" height="228" rx="10" fill="#0D1925" stroke="#3C5665" stroke-width="1.5"/>
+<text x="797" y="143" font-family="DejaVu Sans Mono,monospace" font-size="13" fill="#6F96A0">// WHAT I WORK ON</text>
+<text x="797" y="191" font-family="DejaVu Sans Mono,monospace" font-size="19" fill="#A1E6B3">01</text><text x="844" y="191" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#E9EFF0">CRM &amp; ERP</text>
+<line x1="797" y1="206" x2="1096" y2="206" stroke="#284253"/>
+<text x="797" y="237" font-family="DejaVu Sans Mono,monospace" font-size="19" fill="#A1E6B3">02</text><text x="844" y="237" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#E9EFF0">FINANCE</text>
+<line x1="797" y1="252" x2="1096" y2="252" stroke="#284253"/>
+<text x="797" y="285" font-family="DejaVu Sans Mono,monospace" font-size="19" fill="#A1E6B3">03</text><text x="844" y="285" font-family="DejaVu Sans Mono,monospace" font-size="18" fill="#E9EFF0">BACKEND APIs</text>
+<text x="798" y="316" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="#83A3AF">status: building &amp; learning</text>
+</svg>

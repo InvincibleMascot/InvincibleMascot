@@ -1,6 +1,6 @@
-<!-- Editorial Portfolio | HTML compatible with GitHub README rendering -->
-<p align="center"><img src="assets/editorial-banner.svg" width="100%" alt="Niranjan R — Full Stack Developer, Chennai" /></p>
-<p align="center"><strong>Enterprise web applications &nbsp;·&nbsp; CRM &amp; ERP &nbsp;·&nbsp; Financial workflows &nbsp;·&nbsp; Backend APIs</strong></p>
+<!-- Developer Terminal | HTML compatible with GitHub README rendering -->
+<p align="center"><img src="assets/terminal-banner.svg" width="100%" alt="Developer terminal — Niranjan R, Full Stack Developer" /></p>
+<p align="center"><code>full_stack_developer</code> &nbsp; <code>chennai_india</code> &nbsp; <code>laravel_backend</code></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/niranjan-rg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
   <a href="https://github.com/InvincibleMascot"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-InvincibleMascot-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
@@ -51,4 +51,4 @@
 <p>Backend architecture &nbsp;·&nbsp; Database design and optimization &nbsp;·&nbsp; Scalable business applications &nbsp;·&nbsp; API development &nbsp;·&nbsp; DevOps and deployment workflows</p>
 
 <hr />
-<p align="center"><strong>Chennai, Tamil Nadu, India</strong><br /><a href="https://www.linkedin.com/in/niranjan-rg">Connect with me on LinkedIn ↗</a></p>
+<p align="center"><strong>Want to connect?</strong> &nbsp; <a href="https://www.linkedin.com/in/niranjan-rg">Find me on LinkedIn ↗</a></p>

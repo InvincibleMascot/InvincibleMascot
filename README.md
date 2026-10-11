@@ -1,54 +1,128 @@
-<!-- Developer Terminal | HTML compatible with GitHub README rendering -->
-<p align="center"><img src="assets/terminal-banner.svg" width="100%" alt="Developer terminal — Niranjan R, Full Stack Developer" /></p>
-<p align="center"><code>full_stack_developer</code> &nbsp; <code>chennai_india</code> &nbsp; <code>laravel_backend</code></p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/niranjan-rg"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/InvincibleMascot"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-InvincibleMascot-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<div align="center">
+
+# 👋 Hey, I'm Niranjan
+
+### Full Stack Developer
+
+🚀 Building web applications, CRM & ERP systems, financial workflows, and database-driven solutions.
+
+<br>
+
+![Laravel](https://img.shields.io/badge/Laravel-Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Developer-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Developer-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Curious Learning about DevOps](https://img.shields.io/badge/DevOps-91970?style=for-the-badge&logo=DevOps&logoColor=white)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer** with hands-on experience developing and maintaining web applications, CRM and ERP modules, financial workflow systems, database-driven applications, and backend APIs.
+
+I enjoy taking ideas and requirements through implementation, testing, debugging, and continuous improvement. My interests include building clean backend logic, structured databases, secure authentication, authorization, and scalable business workflows.
+
+- 💼 Software Engineer at **VinGreen Technologies LLP**
+- 🔧 Building applications with **Laravel & PHP**
+- 🏢 Experience with **CRM and ERP modules**
+- 💰 Experience building **financial workflow systems**
+- 🔐 Worked with **Authentication & Role-Based Access Control**
+- 🗄️ Working with **MySQL & PostgreSQL**
+- 🌱 Continuously improving my backend and software engineering skills
+
+---
+
+# 🛠️ Tech Stack
+
+### ⚙️ Backend
+
+<p>
+  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](![Python](https://shields.io))
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 </p>
 
-<hr />
-<h2>About Me</h2>
-<p>I am a Full Stack Developer with a solid foundation in web application development and web design, and hands-on experience in backend development, databases, RESTful APIs, and enterprise applications. Currently working at VinGreen Technologies LLP, I have experience developing and maintaining CRM and ERP applications, implementing authentication and role-based access control, and building database-driven solutions using JavaScript, Node.js, PHP, Laravel, Python, MySQL, and PostgreSQL. I am actively improving my skills in full stack development while strengthening my knowledge of modern web technologies and learning through practical projects.</p>
+### 🗄️ Databases
 
-<hr />
-<h2>Technologies &amp; Tools</h2>
-<p><img src="assets/stack-backend.svg" alt="Backend: PHP, Laravel, Node.js, Express.js, Python" width="100%" /></p>
-<p><img src="assets/stack-frontend.svg" alt="Frontend: HTML5, CSS3, JavaScript, Bootstrap, AJAX" width="100%" /></p>
-<p><img src="assets/stack-data-tools.svg" alt="Databases and tools: MySQL, PostgreSQL, SQL, Git, Postman, VS Code" width="100%" /></p>
+<p>
 
-<hr />
-<h2>Experience Through Projects</h2>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / Financial Workflow System</h3>
-      <p><strong>Journal Voucher &amp; Suspense Management</strong></p>
-      <p>Worked on Journal Voucher processing, suspense ledger management, transaction matching, reconciliation, reporting, and audit logging.</p>
-      <p><code>Maker–Checker</code> <code>Approvals</code> <code>Validation</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / Pharmaceutical CRM &amp; ERP</h3>
-      <p><strong>Sales &amp; Business Operations Tracker</strong></p>
-      <p>Developed modules for leads, follow-ups, sample data requests, sales data, product inventory, and customer workflows.</p>
-      <p><code>Laravel</code> <code>CRM / ERP</code> <code>RBAC</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>03 / Backend API Development</h3>
-      <p>Developed Node.js backend APIs for a machinery product management application, including CRUD operations, server-side logic, input validation, and database integration.</p>
-      <p><code>Node.js</code> <code>REST APIs</code> <code>CRUD</code></p>
-    </td>
-  </tr>
-</table>
-<details>
-  <summary><strong>More on my financial application work</strong></summary>
-  <p>Worked with duplicate JV detection, Client UCC and amount matching, Bank OCR checking, KYC validation, account-status checks, multi-level approvals through email and the application UI, exception handling, reconciliation, and audit tracking.</p>
-</details>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<hr />
-<h2>Currently Learning</h2>
-<p>Backend architecture &nbsp;·&nbsp; Database design and optimization &nbsp;·&nbsp; Scalable business applications &nbsp;·&nbsp; API development &nbsp;·&nbsp; DevOps and deployment workflows</p>
+</p>
 
-<hr />
-<p align="center"><strong>Want to connect?</strong> &nbsp; <a href="https://www.linkedin.com/in/niranjan-rg">Find me on LinkedIn ↗</a></p>
+### 🎨 Frontend & Tools
+
+<p>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</p>
+
+---
+
+# 🏦 Financial Workflow Systems
+
+Experience working on financial workflow modules involving:
+
+- Journal Voucher processing
+- Suspense Ledger management
+- Transaction matching and reconciliation
+- Multi-level approval workflows
+- Maker–Checker controls
+- Duplicate transaction detection
+- KYC and account validation
+- Exception handling
+- Audit logging
+- Role-Based Access Control
+
+---
+
+# 📊 CRM & ERP Development
+
+Experience developing and customizing business modules for:
+
+- Lead Management
+- Follow-up Tracking
+- Sales Data Management
+- Customer workflows
+- Role-Based Permissions
+- Client-specific business requirements
+
+---
+
+# 🧠 Core Concepts
+
+| Area | Skills |
+|---|---|
+| ⚙️ Backend | Laravel, PHP, Node.js, Express.js |
+| 🏗️ Architecture | MVC, CRUD, REST APIs |
+| 🔐 Security | Authentication, Authorization, RBAC |
+| 🗄️ Database | MySQL, PostgreSQL, SQL |
+| 🧩 Development | SDLC, Debugging, Testing |
+| 📚 Fundamentals | Data Structures & Algorithms |
+
+---
+
+# 🌱 Currently Growing
+
+I'm currently focusing on improving my knowledge in:
+
+- 🏗️ Backend Architecture
+- 🗄️ Database Design & Optimization
+- ⚙️ Scalable Business Applications
+- 🔌 API Development
+- 🏦 Financial and Enterprise Software Systems
+- ☁️ DevOps and Deployment Workflows
+---
